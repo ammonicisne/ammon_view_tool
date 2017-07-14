@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install ammon_view_tool
 
 ## Usage
-    ```ruby
+```ruby
 ammonViewTool::Renderer.copyright 'ammon Cisneros', 'All rights reserved'
 ```
 ## Development
