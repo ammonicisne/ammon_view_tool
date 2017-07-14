@@ -19,9 +19,9 @@ Or install it yourself as:
     $ gem install ammon_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
-
+    ```ruby
+ammonViewTool::Renderer.copyright 'ammon Cisneros', 'All rights reserved'
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
